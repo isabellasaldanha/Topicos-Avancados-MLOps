@@ -46,7 +46,7 @@ A arquitetura proposta para um sistema conversacional com aprendizado contínuo 
 
 ## Conclusão
 
-A proposta de um sistema conversacional com aprendizado contínuo é uma abordagem promissora para enfrentar os desafios da obsolescência do conhecimento. A implementação dessa solução deve garantir que o sistema possa aprender de forma eficaz sem esquecer informações importantes. A evolução dos sistemas conversacionais para incluir aprendizado contínuo não apenas melhorará a experiência do usuário, mas também abrirá novas possibilidades para a aplicação de inteligência artificial em outras áreas do nosso cotidiano.
+A proposta de um sistema conversacional com aprendizado contínuo é uma abordagem promissora para enfrentar os desafios da obsolescência do conhecimento pois a implementação dessa solução irá garantir que o sistema possa aprender de forma eficaz sem esquecer informações importantes. Além disso, percebo que a evolução dos sistemas conversacionais para incluir aprendizado contínuo não apenas melhorará a experiência do usuário, mas também abrirá novas possibilidades para a aplicação de inteligência artificial em outras áreas do nosso cotidiano.
 
 ## Referências bibliográficas
 
